@@ -13,6 +13,7 @@ public class asd {
         bbb.eat();
         CCC ccc=new CCC();
         ccc.eat();
+        ccc.eat();
 
     }
 }
