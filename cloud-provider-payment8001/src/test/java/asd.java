@@ -14,6 +14,7 @@ public class asd {
         CCC ccc=new CCC();
         ccc.eat();
         ccc.eat();
+        String a;
 
     }
 }
